@@ -1,0 +1,6 @@
+rootProject.name = 'SpringBoot-Authorization'
+include 'AuthorizationServer'
+include 'Client'
+include 'MessageResource'
+include 'DefaultAuthorizationServer'
+
